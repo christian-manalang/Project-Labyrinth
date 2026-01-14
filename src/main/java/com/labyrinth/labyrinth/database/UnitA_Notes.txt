@@ -1,0 +1,1 @@
+Unit A (Database): Handle Firestore connection, CRUD operations, and Duplicate Detection logic here.

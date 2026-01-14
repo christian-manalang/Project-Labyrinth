@@ -1,0 +1,13 @@
+target/
+*.class
+
+# Firebase Private Key (Do not upload)
+src/main/resources/serviceAccountKey.json
+
+.vscode/
+bin/
+.history/
+
+.idea/
+.DS_Store
+*.iml
